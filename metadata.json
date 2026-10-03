@@ -1,0 +1,6 @@
+{
+  "name": "KarigarX",
+  "description": "AI-powered product scanner, digital catalog, and fair price discovery for Indian artisans and craftspeople.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
